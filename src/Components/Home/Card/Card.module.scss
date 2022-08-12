@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  text-decoration: none;
+}
+.cardWrapper{
+  display: flex;
+  flex-direction: column;
+  color: white;
+width: 256px;
+text-align: left;
+margin: 15px 5px 15px 5px;
+  p{
+    font-size: 15px;
+    line-height: 17px;
+  }
+  p:hover{
+   color: #FF9000;
+  }
+.span:hover{
+  color: #FF9000;
+}
+  span{
+    img{
+      margin: 0px 5px 0px 10px;
+    }
+    display: flex;
+align-content: center;
+    line-height: 17px;
+    font-size: 14px;
+    color: #989898;
+  }
+  h4{
+    width: 800px;
+  }
+}
