@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CornHub-Redux/static/css/main.dea9b5c8.css",
-    "main.js": "/CornHub-Redux/static/js/main.1e4374d4.js",
+    "main.js": "/CornHub-Redux/static/js/main.d8a522cc.js",
     "static/js/787.c4ae2e9b.chunk.js": "/CornHub-Redux/static/js/787.c4ae2e9b.chunk.js",
     "static/media/logo.svg": "/CornHub-Redux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CornHub-Redux/index.html",
     "main.dea9b5c8.css.map": "/CornHub-Redux/static/css/main.dea9b5c8.css.map",
-    "main.1e4374d4.js.map": "/CornHub-Redux/static/js/main.1e4374d4.js.map",
+    "main.d8a522cc.js.map": "/CornHub-Redux/static/js/main.d8a522cc.js.map",
     "787.c4ae2e9b.chunk.js.map": "/CornHub-Redux/static/js/787.c4ae2e9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dea9b5c8.css",
-    "static/js/main.1e4374d4.js"
+    "static/js/main.d8a522cc.js"
   ]
 }
